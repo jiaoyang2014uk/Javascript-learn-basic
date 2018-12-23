@@ -1,0 +1,7 @@
+body{color: black; background-color: white;}
+input.invalid{background-color: blue; border:2px red inset;}
+label.invalid{color: yellow; font-weight: bold;}
+select{margin-left: 80px;}
+input{margin-left: 30px;}
+input+select, input+input{margin-left: 20px;}
+.centered{text-align: center;}

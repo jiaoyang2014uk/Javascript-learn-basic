@@ -1,0 +1,8 @@
+table{border-collapse: collapse;}
+tr.even{background-color: #c2c8d4;}
+tr.over{background-color: #8797b7;}
+td{border-bottom: 1px solid #c2c8d4; padding: 5px;}
+th{border-right: 2px solid #fff; color: #fff; padding-right: 40px; padding-left: 20px; background-color: #626875;  }
+th div::after{content: "▲"; display: inline-block; vertical-align: middle; width: 23px; height: 23px;}
+th.sortUp div::after{transform: rotate(0);}
+th.sortDown div::after{transform: rotate(180deg);}

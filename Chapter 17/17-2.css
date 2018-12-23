@@ -1,0 +1,33 @@
+body{font-family: Verdana,Helvetica, Arial,sans-serif; background-color: #666; color: #000; margin: 0; padding:0; text-align: center;}
+h1,h2,h3,h4,h5,h6{font-family: Cambria,"Palatino Linotype", "Book Antiqua", "URM Palladio L", serif;}
+main{width: 80%; margin: 0 auto; padding: 0; text-align: left;}
+header{background-color: #91A43D; text-align: center; margin: 0; padding: 0;overflow: hidden;}
+header img{width: 100%; max-width: 800px; height: 110px;}
+article{background-color: #fff; padding: 10px 20px 0 1em;}
+article::after {clear: both; content: ""; display: table;}
+.photo{float: right; margin-left: .8em; width: 200px; height: auto; font-size: .8em; font-style: italic; line-height: 1em;}
+.photo img {width: 100%;}
+footer p{margin:0; padding: 10px 0; background-color: #DDD; text-align: center; font-size: .8em;}
+
+@media only screen and (max-device-width: 1024px){
+	main{
+		width: 100%;
+	}
+	nav{
+		font-weight: normal;
+	}
+	h1,h2,h3,h4,h5,h6{
+		font-family: Albany, Georgia, "Times New Roman", serif;
+	}
+	.landscape{
+		font-size: .5em;
+	}
+	.portrait{
+		font-size: .8em;
+	}
+}
+@media only screen and (min-resolution: 192dpi), only screen and (webkit-min-device-pixel-ratio:2), only screen and (min-device-width:768px) and (min-device-height:768px) and (max-device-width:1024px){
+	header img{
+		width: 640px;
+	}
+}

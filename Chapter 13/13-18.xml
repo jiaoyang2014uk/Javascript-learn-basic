@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<choices xml:lang="EN">
+	<item><label>zhao </label><value>1-1</value></item>
+	<item><label>qian</label><value>2-1</value></item>
+	<item><label>sun</label><value>3-1</value></item>
+	<item><label>suv</label><value>3-1</value></item>
+	<item><label>skn</label><value>3-1</value></item>
+	<item><label>li</label><value>4-1</value></item>
+	<item><label>zhou</label><value>5-1</value></item>
+	<item><label>wu</label><value>6-1</value></item>
+	<item><label>zheng</label><value>6-1</value></item>
+	<item><label>wang</label><value>6-1</value></item>
+</choices>

@@ -1,0 +1,17 @@
+#preview{
+	background-color: #ff9;
+	width: 400px;
+	height: 100px;
+	font: 0.8em arial,helvetica,sans-serif;
+	padding: 5px;
+	position: absolute;
+	visibility: hidden;
+	top: 10px;
+	left: 10px;
+	border: 1px #cc0 solid;
+	clip: auto;
+	overflow: hidden;
+}
+#preview h1, #preview h2{
+	font-size: 1em;
+}

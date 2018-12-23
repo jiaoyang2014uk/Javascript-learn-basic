@@ -1,0 +1,32 @@
+body{
+	background-color: white;
+	color: black;
+	font-size: 2px;
+	font-family:"lucida Gradnde", Verdana, Arial, Helvetica, san-serif;
+}
+h1, th{
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1{
+	font-size: 28px;
+}
+
+table{
+	border-collapse: collapse;
+}
+th, td{
+	padding: 10px;
+	border: 2px #666 solid;
+	text-align: center;
+	width: 20%;
+}
+
+#free,.pickedBG{
+	background-color: pink;	
+}
+.winningBG{
+	background-image: url(images/redFlash.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: red;
+}

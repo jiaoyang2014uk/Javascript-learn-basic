@@ -1,0 +1,8 @@
+#stylemenu{padding: 2em 0;}
+#stylemenu input + label{font-weight: normal;}
+#stylemenu #check1 + label{font-weight: bold;}
+#stylemenu #check2 + label{font-style: italic;}
+#stylemenu #check3 + label{text-decoration: underline;}
+#stylemenu #check4 + label{font-family: monospace; font-size: 1.4em;}
+#stylemenu #check5 + label{text-decoration: line-through;}
+#stylemenu #check6 + label{font-variant: small-caps;}

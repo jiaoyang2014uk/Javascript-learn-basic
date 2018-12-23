@@ -1,0 +1,6 @@
+body {background-color: gray;}
+img {border-width: 0px;}
+#captionDiv{float: right; width: 210px; margin: auto 50px;}
+#captionField {margin: 20px auto; width: 208px; height: 270px;}
+#inventionDiv{ width: 375px;margin-left: 20px; }
+#heading{margin-bottom: 20px; width: 375px; height: 26px;}

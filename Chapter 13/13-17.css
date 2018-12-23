@@ -1,0 +1,5 @@
+body, #search{font: 1.2em arial,helvetica,sans-serif;}
+.sugestion{background-color: #fff;padding: 2px 6px; border: 1px solid #000;}
+.suggestion:hover{ background-color: #69f; }
+#popups{position: absolute;}
+#search.error{background-color: #ffc;}

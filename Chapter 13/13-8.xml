@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "utf-8" standalone = "yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl/dc/elements/1.1" xmlns:flickr="urn:flickr:" xmlns:media ="http://search.yahoo.com/mrss">
+	<entry>
+		<content type = "html">
+			&lt;p&gt;&lt;a href = &quot; # &quot;&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;&lt;a href = &quot; images/0_m.jpg &quot;&gt;&lt;img src= &quot;images/0_m.jpg&quot; with= &quot;240&quot; height = &quot;180 &quot; &gt;&lt;/a&gt; &lt;/p&gt;
+		</content>
+	</entry>
+	<entry>
+			<content type = "html">
+			&lt;p&gt;&lt;a href = &quot; # &quot;&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;&lt;a href = &quot; images/1_m.jpg &quot;&gt;&lt;img src= &quot;images/1_m.jpg&quot; with= &quot;240&quot; height = &quot;180 &quot; &gt;&lt;/a&gt; &lt;/p&gt;
+			</content>
+	</entry>
+	<entry>
+			<content type = "html">
+		    &lt;p&gt;&lt;a href = &quot; # &quot;&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;&lt;a href = &quot; images/2_m.jpg &quot;&gt;&lt;img src= &quot;images/2_m.jpg&quot; with= &quot;240&quot; height = &quot;180 &quot; &gt;&lt;/a&gt; &lt;/p&gt;
+			</content>
+	</entry>	
+</feed>

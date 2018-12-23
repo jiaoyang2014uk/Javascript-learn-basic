@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<choices xml:lang="EN">
+	<item><label>1</label><value>1-1</value></item>
+	<item><label>2</label><value>2-1</value></item>
+	<item><label>3</label><value>3-1</value></item>
+	<item><label>4</label><value>4-1</value></item>
+	<item><label>5</label><value>5-1</value></item>
+	<item><label>6</label><value>6-1</value></item>
+</choices>

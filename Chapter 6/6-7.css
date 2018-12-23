@@ -1,0 +1,3 @@
+body{color: black; background-color: white;}
+input.invalid{background-color: orange;border:2px red inset;}
+label.invalid{color: blue; font-weight: bold;}

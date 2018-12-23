@@ -1,0 +1,4 @@
+body{background-color: #fff;}
+#ad{position: absolute; z-index: 2; width: 100px; height: 100px; display: none;margin: 10px; padding: 10px; border: 5px solid yellow; background-color: green;word-wrap:break-word;}
+#closebox{position: absolute;top: 0; right: 0; color: red;font-size: 1.5em;}
+p{word-break:break-all;}

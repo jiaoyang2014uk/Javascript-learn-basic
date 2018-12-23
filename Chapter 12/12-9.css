@@ -1,0 +1,5 @@
+body{background-color: #fff; color: #000;}
+h1{margin-left: 100px;}
+#imgChg{margin-left: 100px;clear: both;}
+#sliceChange{padding: 0 10px 10px 10px;float: left; height: 240px; width: 320px;}
+#imgText{padding: 10px 0 10px 10px;float: left; height: 150px; width: 200px; border-top: 1px solid #000; border-left: 1px solid #000;}

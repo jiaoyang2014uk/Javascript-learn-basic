@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Car Picker</title>
+	<link rel="stylesheet" type="text/css" href="6-12.css">
+	<script type="text/javascript" src="6-17.js"></script>
+</head>
+<body>
+<h2 class="centered">Car Picker</h2>
+<form>
+	<p><label for="emailAddr">Email Address:<input id="emailAddr" type="text" size="30" class="reqd email"></label></p>
+	<p>Color:
+		<select id="color" class="reqd">
+			<option value="" selected>Choose a color</option>
+			<option value="Red">Red</option>
+			<option value="Green">Green</option>
+			<option value="Blue">Blue</option>
+		</select>
+	</p>
+	<p>Options:
+		<label for="sunroof"><input type="checkbox" id="sunroof" value="Yes">Sunroof(Two door only)</label>
+		<label for="pWindow"><input type="checkbox" id="pWindow" value="Yes">Power Window</label>
+	</p>
+	<p>Doors: &nbsp; &nbsp;
+		<label for="twoDoor"><input type="radio" id="twoDoor" name="DoorCt" value="twoDoor" class="radio">Two</label>
+		<label for="fourDoor"><input type="radio" id="fourDoor" name="DoorCt" value="fourDoor" class="radio">Four</label>
+	</p>
+	<p>
+		<label for="Zip">Enter your zip code or pick the dealer nearest you: <br>Zip :<input id="zip" type="text" size="5" maxlength="5" class="isZip dealerList" ></label>
+		<select id="dealerList" size="4" class="zip">
+			<option value="A">A</option>
+			<option value="B">B</option>
+			<option value="C">C</option>
+			<option value="D">D</option>
+			<option value="E">E</option>
+		</select>
+	</p>
+	<p><input type="submit" value="Submit"> &nbsp;<input type="reset"></p>
+</form>
+</body>
+</html>
